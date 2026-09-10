@@ -1,6 +1,6 @@
 # Hemal Marepalli Portfolio
 
-##Project Description
+## Project Description
 
 This project is a personal academic portfolio website created for CS 3365 - Software Engineering! 
 
